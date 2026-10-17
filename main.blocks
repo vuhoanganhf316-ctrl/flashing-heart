@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="@}1mB4EtVL-})wUM64yK" x="0" y="0"><statement name="HANDLER"><block type="device_plot" id="sJC{l9he}g,RvMUNyr/o"><value name="x"><shadow type="math_number_minmax" id="UxhtgQ|]MQ=EPOMfCy*c"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="0XFAB`;qv-B*(C7YH1[1"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="N,e$brjmXJ}XANT3b9$T"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="music_playable_play" id="YyimuT/s%mp_`xp@@XFW"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_tone_playable" id=".J^B)!KelbM8Dg~G5}~~"><value name="note"><shadow type="device_note" id=";4G(b?!_k|=B|`IxzB(,"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id=")ez30(~9IRs9+jZ_]_T_"><field name="fraction">BeatFraction.Whole</field></shadow></value></shadow></value></block></next></block></next></block></statement></block></xml>
